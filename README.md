@@ -1,34 +1,36 @@
 <div align="center">
 
-<!-- Header Animated Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=Minindu%20Rajapaksha&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Undergraduate%20%E2%80%A2%20Aspiring%20Data%20Scientist%20and%20AI%20Engineer&descAlignY=58&descSize=18" width="100%" alt="Minindu Rajapaksha Banner" />
-
-<!-- Animated Dynamic Typing Title -->
+<!-- Custom Animated High-Tech Header Banner (Bespoke Vector SVG) -->
 <a href="https://github.com/Rajapakshaminindu">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=50&lines=%F0%9F%91%8B+Hi%2C+I'm+Minindu+Rajapaksha!;%F0%9F%92%BB+Software+Engineering+Undergraduate;%F0%9F%93%8A+Data+Science+%26+Big+Data+Enthusiast;%F0%9F%A7%A0+Building+Intelligent+AI+%26+Cloud+Lakehouses;%E2%9A%A1+Turning+Raw+Data+into+Actionable+Intelligence" alt="Typing Animation" />
+  <img src="https://raw.githubusercontent.com/Rajapakshaminindu/Rajapakshaminindu/main/assets/header_banner.svg" width="100%" alt="Minindu Rajapaksha Header Banner" />
+</a>
+
+<!-- Sleek Dynamic Typing Sub-Headline -->
+<a href="https://github.com/Rajapakshaminindu">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=50&lines=Software+Engineering+Undergraduate;Aspiring+Data+Scientist+and+Data+Engineering;Architecting+Medallion+Lakehouses+(Databricks+%2B+PySpark);Engineering+Multimodal+AI+with+Alibaba+Qwen+%26+Antigravity;Transforming+Enterprise+Data+with+Microsoft+Fabric+%26+Azure" alt="Typing Animation" />
 </a>
 
 <br/>
 
 <!-- Interactive Social Icons with Hover Zoom -->
-<p align="center" style="display:flex; gap:12px; align-items:center; justify-content:center;">
+<p align="center" style="display:flex; gap:16px; align-items:center; justify-content:center;">
   <a href="mailto:rajapakshaminindu@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" style="border-radius:50%; width:32px; height:32px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" title="Send an Email" style="border-radius:50%; width:34px; height:34px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.25)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/minindurajapaksha" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="border-radius:50%; width:32px; height:32px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/minindu-rajapaksha-38a69a336/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" title="Connect on LinkedIn" style="border-radius:50%; width:34px; height:34px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.25)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
-  &nbsp;
-  <a href="https://github.com/Rajapakshaminindu">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" style="border-radius:50%; width:32px; height:32px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/share/1Dbr3JKpCk/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" title="Facebook Profile" style="border-radius:50%; width:34px; height:34px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.25)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
 </p>
 
-<!-- Profile Views & Badges -->
+<!-- Profile Views & Career Status -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rajapakshaminindu&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Actively%20Seeking%20Internships-success?style=for-the-badge&logo=statuspage&logoColor=white" alt="Internship Status" />
+  <img src="https://img.shields.io/badge/Status-Actively%20Seeking%20Data%20Science%20%26%20Engineering%20Internships-success?style=for-the-badge&logo=statuspage&logoColor=white" alt="Internship Status" />
 </p>
 
 </div>
@@ -42,18 +44,24 @@
     <tr style="border: none; background: transparent;">
       <td width="55%" valign="top" style="border: none; text-align: left;">
         <p>
-          👋 I am <b>Minindu Rajapaksha</b>, a <b>Software Engineering Undergraduate</b> with a strong analytical specialization in <b>Data Science</b>, <b>Big Data Engineering</b>, and <b>Applied AI</b>.
+          👋 I am <b>Minindu Rajapaksha</b>, a <b>Software Engineering Undergraduate</b> with a specialized passion for <b>Data Science and Data Engineering</b>.
         </p>
         <p>
-          🚀 I focus on architecting production-grade <b>Medallion Lakehouses</b> (Databricks, PySpark, Delta Lake), engineering <b>Multimodal AI defensive platforms</b>, and transforming messy real-world clinical telemetry into high-impact <b>Power BI analytics dashboards</b>.
+          🏛️ <b>Lakehouse & Cloud Engineering:</b> I design end-to-end <b>Medallion Architectures</b> (Bronze ➔ Silver ➔ Gold) with <b>Databricks, PySpark, and Delta Lake</b>, bringing robust schema enforcement, ACID reliability, and feature engineering to large-scale data workflows.
         </p>
         <p>
-          🎯 <b>Career Focus:</b> Eager to leverage strong computational modeling, data warehousing, and AI engineering skills in a challenging <b>Data Science / Software Engineering Internship</b>.
+          🧠 <b>Applied AI & Development:</b> Leveraging platforms like <b>Google Antigravity</b>, <b>VS Code</b>, and <b>Alibaba Cloud Qwen</b> to build intelligent multimodal systems spanning text, OCR vision, and voice telemetry.
+        </p>
+        <p>
+          📊 <b>Enterprise Analytics:</b> Integrating modern data platforms like <b>Microsoft Fabric</b>, <b>Azure Cloud</b>, and <b>Power BI</b> to turn raw clinical and business data into high-value executive dashboards.
+        </p>
+        <p>
+          🎯 <b>Current Objective:</b> Actively seeking challenging <b>Data Science & Data Engineering Internships</b>.
         </p>
       </td>
       <td width="45%" align="center" valign="middle" style="border: none;">
-        <!-- Coding / Data Science Dynamic Animation -->
-        <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="280px" alt="Data & Coding Animation" />
+        <!-- Bespoke Data Science & Lakehouse 3D Digital Asset -->
+        <img src="https://raw.githubusercontent.com/Rajapakshaminindu/Rajapakshaminindu/main/assets/data_science_lakehouse.jpg" width="310px" alt="Data Science and Lakehouse Architecture" style="border-radius: 14px; box-shadow: 0 8px 32px rgba(56, 189, 248, 0.25); border: 1px solid #1e293b;" />
       </td>
     </tr>
   </table>
@@ -78,6 +86,7 @@
       <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
       <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
@@ -86,28 +95,30 @@
       <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
       <img src="https://img.shields.io/badge/Delta%20Lake-00ADD8?style=flat-square&logo=deltalake&logoColor=white" />
       <img src="https://img.shields.io/badge/Medallion%20Architecture-6366F1?style=flat-square&logo=databricks&logoColor=white" />
+      <img src="https://img.shields.io/badge/Parquet%20Engine-00ADD8?style=flat-square&logo=apache&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <th align="center" width="50%">🧠 Applied AI & Multimodal LLMs</th>
-    <th align="center" width="50%">💻 Analytics, Cloud & DevOps</th>
+    <th align="center" width="50%">🧠 Applied AI, Models & Tooling</th>
+    <th align="center" width="50%">📊 Modern Data Platforms & Analytics</th>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=vscode,fastapi,git,github&theme=dark" />
       <br/>
+      <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" />
       <img src="https://img.shields.io/badge/Alibaba%20Cloud%20Qwen-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white" />
       <img src="https://img.shields.io/badge/Computer%20Vision%20(OCR)-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-      <img src="https://img.shields.io/badge/Voice%20Scam%20Scan-00C2FF?style=flat-square&logo=airplayaudio&logoColor=white" />
       <img src="https://img.shields.io/badge/Explainable%20AI%20(XAI)-10B981?style=flat-square&logo=openai&logoColor=white" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,bash&theme=dark" />
+      <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure%20Data%20Lake%20(ADLS)-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure%20Synapse-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
       <br/>
-      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+      <img src="https://img.shields.io/badge/Microsoft%20Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
       <img src="https://img.shields.io/badge/Advanced%20DAX-00758F?style=flat-square&logo=powerbi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-      <img src="https://img.shields.io/badge/REST%20APIs-0055FF?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL%20Analytics-336791?style=flat-square&logo=postgresql&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -124,14 +135,14 @@
       <h3><b>🛡️ 01. ScamShield AI — Multimodal Scam Intelligence</b></h3>
       <p>An intelligent platform detecting financial scams across text, WhatsApp/SMS screenshots (OCR), malicious domains, and voice audio clips.</p>
       <p>
+        <img src="https://img.shields.io/badge/Alibaba%20Qwen%20LLM-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Qwen%20LLM-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Explainable%20AI-10B981?style=flat-square&logo=ai&logoColor=white" />
       </p>
       <ul style="font-size: 13px;">
         <li>Dual-layer detection: instant heuristic rules + Qwen LLM reasoning.</li>
-        <li>Consumer-friendly Explainable AI (XAI) protection steps.</li>
+        <li>Consumer-friendly Explainable AI (XAI) protection steps and risk radar.</li>
       </ul>
       <a href="https://github.com/Rajapakshaminindu/ScamShield-AI">🔗 <b>View Codebase & Architecture →</b></a>
     </td>
@@ -145,7 +156,7 @@
         <img src="https://img.shields.io/badge/Databricks%20SQL-00758F?style=flat-square&logo=sqlite&logoColor=white" />
       </p>
       <ul style="font-size: 13px;">
-        <li>Automated telemetry landing, schema validation, and risk scoring.</li>
+        <li>Automated telemetry landing, schema validation, and patient risk scoring.</li>
         <li>Optimized ACID transactions and Databricks Workflows orchestration.</li>
       </ul>
       <a href="https://github.com/Rajapakshaminindu/databricks-healthcare-medallion-pipeline">🔗 <b>View Lakehouse Pipeline →</b></a>
@@ -167,18 +178,19 @@
       <a href="https://github.com/Rajapakshaminindu/diabetes-risk-powerbi-analysis">🔗 <b>View BI Dashboard & Reports →</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3><b>🧠 04. Applied Machine Learning & Predictive Modeling Lab</b></h3>
-      <p>Repository of exploratory data analysis (EDA), predictive model pipelines, and statistical telemetry analysis.</p>
+      <h3><b>🛒 04. E-Commerce Medallion Lakehouse & Predictive Analytics</b></h3>
+      <p>Scalable ELT data engineering lakehouse built from scratch using Parquet storage, ML predictive modeling, and Streamlit.</p>
       <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Parquet-00ADD8?style=flat-square&logo=apache&logoColor=white" />
         <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
       </p>
       <ul style="font-size: 13px;">
-        <li>End-to-end data preprocessing, feature engineering, and model evaluation.</li>
-        <li>Rigorous statistical validation and cross-validation pipelines.</li>
+        <li>Layered data engineering pipeline transforming transactional data into analytics.</li>
+        <li>Sales forecasting and customer intelligence predictive models.</li>
       </ul>
-      <a href="https://github.com/Rajapakshaminindu?tab=repositories">🔗 <b>Explore Repositories →</b></a>
+      <a href="https://github.com/Rajapakshaminindu/ecommerce-medallion-lakehouse.">🔗 <b>View E-Commerce Lakehouse Repository →</b></a>
     </td>
   </tr>
 </table>
