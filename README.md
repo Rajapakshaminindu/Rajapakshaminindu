@@ -88,7 +88,6 @@ Hi, I'm **Minindu Rajapaksha**, a Software Engineering undergraduate interested 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rajapakshaminindu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2dd4bf&icon_color=38bdf8&text_color=cbd5e1" alt="GitHub statistics" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajapakshaminindu&theme=tokyonight&hide_border=true&background=0D1117&ring=2DD4BF&fire=38BDF8&currStreakLabel=2DD4BF&sideLabels=94A3B8" alt="GitHub contribution streak" />
 
 <br/>
