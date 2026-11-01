@@ -27,7 +27,7 @@ Hi, I'm **Minindu Rajapaksha**, a Software Engineering undergraduate interested 
 
 - **Building with:** Python, SQL, PySpark, Databricks, and Delta Lake
 - **Exploring:** Medallion lakehouses, Microsoft Fabric, Azure, Power BI, and multimodal AI
-- **Currently looking for:** Data Engineering or Data Science internship opportunities
+- **Currently looking for:** Data Engineering or Data Science and Software Engineering internship opportunities
 
 ## Technology
 
