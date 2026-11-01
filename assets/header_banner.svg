@@ -16,6 +16,15 @@
       <stop offset="0" stop-color="#38bdf8" stop-opacity=".22"/>
       <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="nameShimmer" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f8fafc" stop-opacity="0"/>
+      <stop offset=".43" stop-color="#f8fafc" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#99f6e4" stop-opacity=".95"/>
+      <stop offset=".55" stop-color="#c4b5fd" stop-opacity=".8"/>
+      <stop offset=".62" stop-color="#f8fafc" stop-opacity="0"/>
+      <stop offset="1" stop-color="#f8fafc" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-1200 0;1200 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
     <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
       <path d="M36 0H0V36" fill="none" stroke="#94a3b8" stroke-opacity=".08" stroke-width="1"/>
     </pattern>
@@ -64,6 +73,7 @@
   <g text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif">
     <text x="600" y="96" fill="#2dd4bf" font-size="14" font-weight="700" letter-spacing="4">DATA ENGINEERING  /  APPLIED AI  /  ANALYTICS</text>
     <text x="600" y="160" fill="#f8fafc" font-size="48" font-weight="750" letter-spacing="1">MININDU RAJAPAKSHA</text>
+    <text x="600" y="160" fill="url(#nameShimmer)" font-size="48" font-weight="750" letter-spacing="1">MININDU RAJAPAKSHA</text>
     <text x="600" y="201" fill="#cbd5e1" font-size="19" font-weight="600" letter-spacing="2">SOFTWARE ENGINEERING UNDERGRADUATE</text>
     <text x="600" y="241" fill="#94a3b8" font-size="16">Building reliable data pipelines and turning data into useful insights.</text>
   </g>

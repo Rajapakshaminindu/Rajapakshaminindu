@@ -52,12 +52,14 @@ Hi, I'm **Minindu Rajapaksha**, a Software Engineering undergraduate interested 
 <table>
   <tr>
     <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/Rajapakshaminindu/Rajapakshaminindu/main/assets/scamshield-banner.svg" width="100%" alt="ScamShield AI — multimodal scam intelligence" />
       <h3>ScamShield AI</h3>
       <p>Explores multimodal scam detection across message text, screenshots, and audio, with explainable risk feedback.</p>
       <p><sub>Python · FastAPI · Qwen · OCR</sub></p>
       <a href="https://github.com/Rajapakshaminindu/ScamShield-AI">Explore the project →</a>
     </td>
     <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/Rajapakshaminindu/Rajapakshaminindu/main/assets/healthcare-lakehouse-banner.svg" width="100%" alt="Healthcare Lakehouse ETL — bronze, silver, and gold data layers" />
       <h3>Healthcare Lakehouse ETL</h3>
       <p>A Bronze, Silver, and Gold data workflow for clinical data using Databricks, PySpark, and Delta Lake.</p>
       <p><sub>Databricks · PySpark · Delta Lake</sub></p>
@@ -66,12 +68,14 @@ Hi, I'm **Minindu Rajapaksha**, a Software Engineering undergraduate interested 
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/Rajapakshaminindu/Rajapakshaminindu/main/assets/diabetes-dashboard-banner.svg" width="100%" alt="Diabetes Risk Dashboard — clinical analytics and insights" />
       <h3>Diabetes Risk Dashboard</h3>
       <p>A Power BI analysis of diabetes risk indicators, supported by DAX measures and interactive reporting.</p>
       <p><sub>Power BI · DAX · Healthcare Analytics</sub></p>
       <a href="https://github.com/Rajapakshaminindu/diabetes-risk-powerbi-analysis">Explore the project →</a>
     </td>
     <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/Rajapakshaminindu/Rajapakshaminindu/main/assets/ecommerce-lakehouse-banner.svg" width="100%" alt="E-Commerce Lakehouse — Olist data and predictive analytics" />
       <h3>E-Commerce Lakehouse</h3>
       <p>An Olist-based data engineering and analytics project exploring layered processing and predictive modeling.</p>
       <p><sub>Python · Parquet · Scikit-learn · Streamlit</sub></p>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="900" height="240" role="img" aria-labelledby="title description">
+  <title id="title">Healthcare Lakehouse ETL</title>
+  <desc id="description">Clinical data flows through bronze, silver, and gold lakehouse layers.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0b1c22"/>
+      <stop offset="1" stop-color="#102d35"/>
+    </linearGradient>
+    <linearGradient id="flow" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#f59e0b"/>
+      <stop offset=".5" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#34d399"/>
+    </linearGradient>
+    <style>
+      .flow { stroke-dasharray: 8 8; animation: flow 5s linear infinite; }
+      @keyframes flow { to { stroke-dashoffset: -64; } }
+      @media (prefers-reduced-motion: reduce) { .flow { animation: none; } }
+    </style>
+  </defs>
+  <rect width="900" height="240" rx="18" fill="url(#bg)"/>
+  <g fill="none" stroke="#5eead4" stroke-opacity=".13">
+    <path d="M0 45h900M0 195h900M570 0v240M855 0v240"/>
+    <path d="M610 42h220M610 62h160M610 180h220"/>
+  </g>
+  <text x="48" y="50" fill="#5eead4" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="3">CLINICAL DATA ENGINEERING</text>
+  <text x="48" y="108" fill="#ecfeff" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="750">Healthcare Lakehouse</text>
+  <text x="50" y="142" fill="#a5f3fc" font-family="Segoe UI,Arial,sans-serif" font-size="17">A reliable path from raw data to insight</text>
+  <g font-family="Segoe UI,Arial,sans-serif" text-anchor="middle">
+    <rect x="560" y="70" width="86" height="62" rx="12" fill="#f59e0b" fill-opacity=".14" stroke="#f59e0b" stroke-opacity=".75"/>
+    <text x="603" y="97" fill="#fcd34d" font-size="14" font-weight="700">BRONZE</text>
+    <text x="603" y="117" fill="#cbd5e1" font-size="10">INGEST</text>
+    <rect x="674" y="70" width="86" height="62" rx="12" fill="#38bdf8" fill-opacity=".14" stroke="#38bdf8" stroke-opacity=".75"/>
+    <text x="717" y="97" fill="#7dd3fc" font-size="14" font-weight="700">SILVER</text>
+    <text x="717" y="117" fill="#cbd5e1" font-size="10">REFINE</text>
+    <rect x="788" y="70" width="86" height="62" rx="12" fill="#34d399" fill-opacity=".14" stroke="#34d399" stroke-opacity=".75"/>
+    <text x="831" y="97" fill="#6ee7b7" font-size="14" font-weight="700">GOLD</text>
+    <text x="831" y="117" fill="#cbd5e1" font-size="10">ANALYZE</text>
+  </g>
+  <path class="flow" d="M646 101h27m87 0h27" fill="none" stroke="url(#flow)" stroke-width="3"/>
+  <text x="560" y="174" fill="#94a3b8" font-family="Segoe UI,Arial,sans-serif" font-size="12">DATABRICKS  ·  PYSPARK  ·  DELTA LAKE</text>
+</svg>

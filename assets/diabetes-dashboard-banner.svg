@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="900" height="240" role="img" aria-labelledby="title description">
+  <title id="title">Diabetes Risk Dashboard</title>
+  <desc id="description">Clinical analytics dashboard with patient indicators and a risk trend chart.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#17152d"/>
+      <stop offset="1" stop-color="#231c3d"/>
+    </linearGradient>
+    <linearGradient id="chart" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#818cf8"/>
+      <stop offset="1" stop-color="#2dd4bf"/>
+    </linearGradient>
+    <style>
+      .dot { animation: blink 2.8s ease-in-out infinite; }
+      @keyframes blink { 0%, 100% { opacity: .55; } 50% { opacity: 1; } }
+      @media (prefers-reduced-motion: reduce) { .dot { animation: none; } }
+    </style>
+  </defs>
+  <rect width="900" height="240" rx="18" fill="url(#bg)"/>
+  <g stroke="#c4b5fd" stroke-opacity=".12">
+    <path d="M570 42h285M570 78h285M570 114h285M570 150h285M570 186h285"/>
+    <path d="M600 35v158M660 35v158M720 35v158M780 35v158M840 35v158"/>
+  </g>
+  <text x="48" y="50" fill="#c4b5fd" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="3">CLINICAL ANALYTICS · POWER BI</text>
+  <text x="48" y="108" fill="#f5f3ff" font-family="Segoe UI,Arial,sans-serif" font-size="37" font-weight="750">Diabetes Risk</text>
+  <text x="50" y="143" fill="#cbd5e1" font-family="Segoe UI,Arial,sans-serif" font-size="17">Turning patient indicators into clear insights</text>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <rect x="48" y="172" width="112" height="32" rx="9" fill="#818cf8" fill-opacity=".16" stroke="#818cf8" stroke-opacity=".5"/>
+    <text x="104" y="193" text-anchor="middle" fill="#c7d2fe" font-size="11" font-weight="700">GLUCOSE</text>
+    <rect x="170" y="172" width="82" height="32" rx="9" fill="#2dd4bf" fill-opacity=".12" stroke="#2dd4bf" stroke-opacity=".5"/>
+    <text x="211" y="193" text-anchor="middle" fill="#99f6e4" font-size="11" font-weight="700">BMI</text>
+    <rect x="262" y="172" width="82" height="32" rx="9" fill="#38bdf8" fill-opacity=".12" stroke="#38bdf8" stroke-opacity=".5"/>
+    <text x="303" y="193" text-anchor="middle" fill="#bae6fd" font-size="11" font-weight="700">AGE</text>
+  </g>
+  <path d="M586 161l53-30 52 15 55-58 52 28 65-48" fill="none" stroke="url(#chart)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#c4b5fd">
+    <circle class="dot" cx="586" cy="161" r="5"/>
+    <circle class="dot" cx="639" cy="131" r="5" style="animation-delay:.3s"/>
+    <circle class="dot" cx="691" cy="146" r="5" style="animation-delay:.6s"/>
+    <circle class="dot" cx="746" cy="88" r="5" style="animation-delay:.9s"/>
+    <circle class="dot" cx="798" cy="116" r="5" style="animation-delay:1.2s"/>
+    <circle class="dot" cx="863" cy="68" r="5" style="animation-delay:1.5s"/>
+  </g>
+</svg>
